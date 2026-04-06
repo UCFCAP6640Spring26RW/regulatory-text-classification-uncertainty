@@ -1,0 +1,16 @@
+text,true_label,predicted_label,entropy,margin
+loan applicant claims discrimination in credit approval,ECOA,ECOA,1.099,0.0
+creditor considered marital status in lending decision,ECOA,ECOA,1.099,0.0
+applicant was denied credit unfairly,ECOA,ECOA,1.099,0.0
+borrower alleges discriminatory lending treatment,ECOA,ECOA,1.099,0.001
+credit decision may have been influenced by protected characteristics,ECOA,ECOA,1.099,0.0
+consumer disputes incorrect credit report entry,FCRA,FCRA,1.099,0.0
+credit report shows inaccurate delinquency,FCRA,FCRA,1.099,0.001
+agency failed to correct false credit history,FCRA,FCRA,1.099,0.0
+consumer reporting agency reported inaccurate account status,FCRA,FCRA,1.099,0.001
+borrower challenges an error in the credit file,FCRA,FCRA,1.099,0.0
+borrower did not receive truth in lending disclosure,TILA,TILA,1.099,0.0
+loan terms were not clearly disclosed,TILA,TILA,1.099,0.0
+lender failed to provide required APR disclosure,TILA,TILA,1.099,0.0
+finance charges were not properly explained,TILA,TILA,1.099,0.0
+consumer did not receive required disclosure of loan costs,TILA,TILA,1.099,0.0
