@@ -1,0 +1,4 @@
+run,accuracy,average_entropy,artifact_file
+1,1.0,1.099,results_run1.csv
+2,1.0,1.099,results_run2.csv
+3,1.0,1.099,results_run3.csv
